@@ -278,11 +278,11 @@ body {
         @apply relative w-full md:mt-40 mt-0 2xl:px-0 px-5 py-20 radial-gradient;
 
         #m-left-leaf {
-            @apply object-contain absolute -bottom-20 left-0 md:w-fit w-1/3;
+            @apply object-contain absolute -bottom-50 left-0 md:w-fit w-1/3;
         }
 
         #m-right-leaf {
-            @apply object-contain absolute -top-40 right-0 md:w-fit w-1/4;
+            @apply object-contain absolute -top-50 right-0 md:w-fit w-1/4;
         }
 
         .cocktail-tabs {
@@ -321,7 +321,7 @@ body {
             @apply flex max-md:flex-col gap-10 md:items-center justify-between w-full lg:absolute bottom-0;
 
             .info {
-                @apply space-y-4 lg:translate-y-20;
+                @apply space-y-4 lg:translate-y-5;
 
                 #title {
                     @apply font-modern-negra md:text-6xl text-3xl text-yellow max-w-40;
