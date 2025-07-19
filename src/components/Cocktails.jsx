@@ -32,7 +32,7 @@ const Cocktails = () => {
 
 
     return (
-        <section id='cocktails' className='noisy'>
+        <section id='cocktails' className=''>
             <img
                 src='/images/cocktail-left-leaf.png' alt='l-leaf' id='c-left-leaf' />
 

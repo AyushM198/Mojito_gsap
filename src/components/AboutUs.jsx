@@ -63,21 +63,21 @@ const AboutUs = () => {
             <div className='top-grid'>
                 <div className='md:col-span-3'>
                     <div className='noisy'>
-                        <img src='/images/abt1.png' alt='grig-img-1' />
+                        <img src='/images/bar.jpg' alt='grig-img-1' />
                     </div>
                 </div>
 
 
                 <div className='md:col-span-6'>
                     <div className='noisy'>
-                        <img src='/images/abt2.png' alt='grig-img-2' />
+                        <img src='/images/toss.jpg' alt='grig-img-2' />
                     </div>
                 </div>
 
 
                 <div className='md:col-span-3'>
                     <div className='noisy'>
-                        <img src='/images/abt5.png' alt='grig-img-5' />
+                        <img src='/images/duu.jpg' alt='grig-img-5' />
                     </div>
                 </div>
             </div>
@@ -85,14 +85,14 @@ const AboutUs = () => {
             <div className='bottom-grid'>
                 <div className='md:col-span-8'>
                     <div className='noisy'>
-                        <img src='/images/abt3.png' alt='grig-img-3' />
+                        <img src='/images/drinks.jpg' alt='grig-img-3' />
                     </div>
                 </div>
 
 
                 <div className='md:col-span-4'>
                     <div className='noisy'>
-                        <img src='/images/abt4.png' alt='grig-img-3' />
+                        <img src='/images/green.jpg' alt='grig-img-3' />
                     </div>
                 </div>
 
